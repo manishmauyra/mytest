@@ -1,2 +1,3 @@
 this is my 1st commint
+this is merge commit
 This is my 2nd commit
