@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-extra
-=======
-source location
->>>>>>> a769fa314ce14b255383ed7e074c5b5c723638c9
